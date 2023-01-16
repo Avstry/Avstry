@@ -1,12 +1,10 @@
 ### Hi there 👋
 
 <br />
-
-Привет, меня зовут Иван, сейчас учусь на DevOps инженера. Изучаю Git и ещё несколько интересных технологий.
-
+My name is Ivan, I'm currently studying to become a DevOps engineer. Learning Git and some other interesting technologies
 <br />
 
-🚧 **Мои задачи на ближайшее время:**
+🚧 **My tasks for the near future:**
 <!-- TODO-IST:START -->
 Прокачать свои знания:
 *   Git 
@@ -19,6 +17,8 @@
 *   Python/Go
 *   Linux     
 <!-- TODO-IST:END -->
+
+📫 How to reach me: email vengreenivan@gmail.com
 
 <!--
 **Avstry/Avstry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
