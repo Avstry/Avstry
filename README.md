@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+<br />
+
+Привет, меня зовут Иван, сейчас учусь на DevOps инженера. Изучаю Git и ещё несколько интересных технологий.
+
+<br />
+
 <!--
 **Avstry/Avstry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +21,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
