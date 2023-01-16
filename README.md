@@ -7,7 +7,7 @@ My name is Ivan, I'm currently studying to become a DevOps engineer. Learning Gi
 
 🚧 **My tasks for the near future:**
 <!-- TODO-IST:START -->
-Upgrade your knowledge:
+🔭 Upgrade your knowledge:
 *   Git 
 *   Terraform
 *   Ansible
