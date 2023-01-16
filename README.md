@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 <br />
+
 My name is Ivan, I'm currently studying to become a DevOps engineer. Learning Git and some other interesting technologies
 
 <br />
