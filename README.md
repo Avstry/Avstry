@@ -2,11 +2,12 @@
 
 <br />
 My name is Ivan, I'm currently studying to become a DevOps engineer. Learning Git and some other interesting technologies
+
 <br />
 
 🚧 **My tasks for the near future:**
 <!-- TODO-IST:START -->
-Прокачать свои знания:
+Upgrade your knowledge:
 *   Git 
 *   Terraform
 *   Ansible
