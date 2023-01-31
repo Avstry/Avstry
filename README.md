@@ -21,7 +21,9 @@ My name is Ivan, I'm currently studying to become a DevOps engineer. Learning Gi
 <!-- TODO-IST:END -->
 
 📫 How to reach me: email vengreenivan@gmail.com
+
 ![](https://github.com/Avstry/Avstry/blob/main/2.jpg)
+
 <!--
 **Avstry/Avstry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
